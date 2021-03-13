@@ -2,7 +2,7 @@
 Untuk membuka aplikasi: 
 --- nyalakan xampp, start apache dan mysql
 --- copy file dumbcourse ke htdocs
---- buka ```http://localhost/dumbcourse/index.php```
+--- buka link ```http://localhost/dumbcourse/index.php``` di browser
 ### 4a
 ##### buat-database
 ```
