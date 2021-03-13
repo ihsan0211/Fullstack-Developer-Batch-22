@@ -1,5 +1,8 @@
 # Fullstack-Developer-Batch-22
-
+Untuk membuka aplikasi: 
+--- nyalakan xampp, start apache dan mysql
+--- copy file dumbcourse ke htdocs
+--- buka ```http://localhost/dumbcourse/index.php```
 ### 4a
 ##### buat-database
 ```
