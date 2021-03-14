@@ -1,5 +1,5 @@
 # Fullstack-Developer-Batch-22
-### link untuk nomor 1 sampai 3
+### link Codepen untuk nomor 1 sampai 3
 [Nomor 1](https://jsfiddle.net/ihsan0211/retb79hj/) \
 [Nomor 2](https://jsfiddle.net/ihsan0211/6mfbxzha/) \
 [Nomor 3](https://jsfiddle.net/ihsan0211/euhv6m4L) \
